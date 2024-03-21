@@ -1,12 +1,3 @@
-// ==UserScript==
-// @name         Cookie Clicker cheat codes 1 :
-// @version      1.0
-// @description  With this code you can cheat almost anything.
-// @author       girafhacker and nocap
-// @match        https://orteil.dashnet.org/cookieclicker/
-// @namespace https://github.com/girafhacker
-// ==/UserScript==
-
 window.onload = function(){
 alert("Look at the top right for the keybinds for more help press H'. ")
 }
